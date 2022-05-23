@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Taynara</h1>
-<h3 align="center">A frontend developer</h3>
+<h1>Hi 👋, I'm Taynara</h1>
+<h3>A frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taynaradb&label=Profile%20views&color=0e75b6&style=flat" alt="taynaradb" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
